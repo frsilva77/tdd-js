@@ -1,0 +1,17 @@
+{
+  "name": "tdd-vanillajs",
+  "version": "1.0.0",
+  "description": "Example of TDD in vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Flavio Roberto Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "@types/jest": "^26.0.14",
+    "babel-jest": "^26.5.2",
+    "jest": "^26.5.2"
+  }
+}
