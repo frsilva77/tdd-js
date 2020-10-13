@@ -1,5 +1,5 @@
 const sum = (a, b) => a + b;
 
-export {
-    sum
-}
+const mul = (a, b) => a * b;
+
+export { sum, mul };
